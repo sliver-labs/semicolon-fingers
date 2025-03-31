@@ -4,7 +4,7 @@ Ever seen Harry Potter? There is a scene where Albus Dumbledore uses his wand to
 
 In this spirit, Semicolon Fingers is a storytelling platform tackling the global loneliness epidemic through an emotionally intelligent, token-incentivized web3 experience. By blending interactive text, sentiment analysis, and open-source infrastructure, it offers a new kind of human connection — one that is meaningful, measurable, and mental-health-forward.
 
-See the application in action — [youtube-demo-gg23]()
+See the application in action — [![youtube-demo-gg23-thumbnail](https://img.youtube.com/vi/7HWkueO_RF4/0.jpg)](https://youtu.be/7HWkueO_RF4?si=yQt1qHiockcr1JXB)
 
 ### Why it Matters
 
@@ -55,7 +55,7 @@ So far, loneliness is mentioned multiple times, but it may not be clear as to ex
 
 Up to date information can be found on the [community github repository](https://github.com/sliver-labs/semicolon-fingers). Since the project has been in ideation for a long time, and iterated upon several times, the repositories and other related material for the project is very spread out. As such, most current information will be available in the repository linked above, and will contain links to other repositories, along with docs, and community discussions.
 
-For a demo of the project, you can check out [this video on youtube]() (same as above).
+For a demo of the project, you can check out [this video on youtube](https://youtu.be/7HWkueO_RF4?si=o0Ubhe-a63M-SaCa) (same as above).
 
 ### Architecture
 
