@@ -7,7 +7,7 @@ Semicolon Fingers is a storytelling platform tackling the global loneliness epid
 
 This project is being built over multiple hackathons,
 
-- (Apr 2025) _zora-wavehack_ :: Beta version of the project to ship.
+- (Apr 2025) [_zora-wavehack_](https://app.akindo.io/communities/VwQkkAX37Fe9LQA1/products/eaGkDMkqPH8dDGoaa) :: Beta version of the project to ship.
 - (Mar 2025) [espresso-build-and-brew](https://dorahacks.io/buidl/25254) :: Rollup architecture developed here.
 - (Feb 2025) [ethDenver 2025](https://devfolio.co/projects/semicolonfingers-d76d) :: The core UX of the project was built here. Some minor changes are being made currently.
 
